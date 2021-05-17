@@ -105,7 +105,7 @@ components:
     type: chePlugin
     alias: vscode-openshift
 
-  - id: che-incubator/typescript/latest
+  - id: vscode/typescript-language-features/latest
     type: chePlugin
 
   - alias: didact-plugin
